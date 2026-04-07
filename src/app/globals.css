@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-background: #ffffff;
+  --color-foreground: #2d1212;
+  --color-sakram-brown: #2d1212;
+  --color-sakram-orange: #ee4e14;
+  --color-sakram-pink: #e74579;
+  --color-sakram-green: #4caf50;
+  --color-sakram-gray: #f8f9fa;
+  --color-sakram-text: #4a4a4a;
+  --font-sans: "Inter", system-ui, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--color-background);
+  color: var(--color-sakram-text);
+  font-family: var(--font-sans);
+}

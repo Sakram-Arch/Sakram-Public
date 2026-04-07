@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Gold shield outline -->
+  <path d="M32 2 L4 16 C4 16 2 40 32 62 C62 40 60 16 60 16 Z" fill="#c9952d" />
+  <!-- Inner shield cutout (white, then layered) -->
+  <path d="M32 8 L10 20 C10 20 8 40 32 56 C56 40 54 20 54 20 Z" fill="#ffffff" />
+  <!-- Navy S shape - upper curve -->
+  <path d="M38 14 C28 14 20 20 20 28 C20 34 25 37 32 38 C39 39 44 41 44 46 C44 52 38 54 32 54 C26 54 20 50 18 46"
+    fill="none" stroke="#1e2a5a" stroke-width="8" stroke-linecap="round" />
+  <!-- Gold accent flowing with S -->
+  <path d="M26 14 C20 18 16 24 18 30 C20 36 26 37 30 36 C34 35 36 32 34 28 C32 24 28 24 26 26"
+    fill="#c9952d" opacity="0.9" />
+</svg>
