@@ -1,5 +1,6 @@
-import Image from "next/image";
 import { ChevronDown } from "lucide-react";
+
+const BASE = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
 
 export default function HeroSection() {
   return (
@@ -8,13 +9,12 @@ export default function HeroSection() {
       <div className="pointer-events-none absolute inset-0 bg-gradient-to-b from-sakram-gray to-white" />
 
       <div className="relative z-10 flex flex-col items-center gap-6">
-        <Image
-          src="/sakram-logo.jpg"
+        <img
+          src={`${BASE}/sakram-logo.jpg`}
           alt="Sakram"
           width={120}
           height={120}
           className="rounded-2xl shadow-lg"
-          priority
         />
 
         <h1 className="text-5xl font-extrabold tracking-tight text-sakram-brown sm:text-6xl">
@@ -30,8 +30,8 @@ export default function HeroSection() {
         </p>
 
         <div className="mt-4 flex items-center gap-3">
-          <Image
-            src="/ispirt-logo.svg"
+          <img
+            src={`${BASE}/ispirt-logo.svg`}
             alt="iSPIRT"
             width={80}
             height={32}

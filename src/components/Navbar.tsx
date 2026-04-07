@@ -1,8 +1,9 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import Image from "next/image";
 import { Menu, X } from "lucide-react";
+
+const BASE = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
 
 const links = [
   { label: "About", href: "#about" },
@@ -30,8 +31,8 @@ export default function Navbar() {
     >
       <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-4">
         <a href="#" className="flex items-center gap-3">
-          <Image
-            src="/sakram-logo.jpg"
+          <img
+            src={`${BASE}/sakram-logo.jpg`}
             alt="Sakram"
             width={40}
             height={40}

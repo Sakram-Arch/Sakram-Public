@@ -26,6 +26,8 @@ jobs:
 
       - name: Build
         run: bun run build
+        env:
+          NEXT_PUBLIC_BASE_PATH: /Sakram-Public
 
       - uses: actions/upload-pages-artifact@v3
         with:
