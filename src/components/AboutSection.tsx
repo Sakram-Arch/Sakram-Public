@@ -26,7 +26,7 @@ export default function AboutSection() {
           Rethinking Cybersecurity
         </h2>
         <p className="mx-auto mt-4 max-w-3xl text-center text-lg leading-relaxed text-sakram-text">
-          Cybersecurity has evolved beyond IT. Today, it is a core business function, one that must align with your Strategy, Executive Decisions, Operations, and the Trust your ustomers place in you
+          Cybersecurity has evolved beyond IT. Today, it is a core business function, one that must align with your Strategy, Executive Decisions, Operations and the Trust your customers place in you
         </p>
 
         <div className="mt-16 grid gap-8 sm:grid-cols-3">
