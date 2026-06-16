@@ -17,16 +17,15 @@ export default function HeroSection() {
           className="rounded-2xl shadow-lg"
         />
 
-        <h1 className="text-5xl font-extrabold tracking-tight text-sakram-brown sm:text-6xl">
-          Sakram
-        </h1>
+       <h1 className="text-5xl font-extrabold tracking-tight text-sakram-brown sm:text-6xl">
+  Sakram
+</h1>
 
-        <p className="max-w-2xl text-lg leading-relaxed text-sakram-text sm:text-xl">
-          <br />
-          <span className="text-sakram-orange font-semibold">
-            Built for an Always Secure India.
-          </span>
-        </p>
+<p className="max-w-2xl text-lg leading-relaxed text-sakram-text sm:text-xl">
+  <span className="text-sakram-orange font-semibold">
+    Built for an Always Secure India.
+  </span>
+</p>
 
         <div className="mt-4 flex items-center gap-3">
           <img
