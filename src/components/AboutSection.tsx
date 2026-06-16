@@ -47,11 +47,7 @@ export default function AboutSection() {
         </div>
 
         <p className="mx-auto mt-12 max-w-3xl text-center text-base leading-relaxed text-sakram-text">
-          Whether you&apos;re running an IT services company, a financial
-          institution, a manufacturing unit, or a startup — your business runs
-          on digital infrastructure. Data, applications, and platforms are core
-          business assets, and when these are at risk, your entire business is
-          at risk.
+         Whether you run an IT firm, a Financial Institution, a Manufacturing Unit or a Startup, your business runs on Digital Infrastructure. Data, Applications and Platforms are core assets. When they are at risk, your business is at risk
         </p>
       </div>
     </section>
