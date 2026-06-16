@@ -26,11 +26,7 @@ export default function AboutSection() {
           Rethinking Cybersecurity
         </h2>
         <p className="mx-auto mt-4 max-w-3xl text-center text-lg leading-relaxed text-sakram-text">
-          For a long time, cybersecurity was seen as a defensive measure — a
-          burdensome cost handled by the IT team alone. As technology has
-          evolved, so has our perspective. Today, cybersecurity needs to align
-          with your business strategy, executive decisions, operational
-          planning, and customer expectations.
+          Cybersecurity has evolved beyond IT. Today, it is a core business function, one that must align with your Strategy, Executive Decisions, Operations, and the Trust your ustomers place in you
         </p>
 
         <div className="mt-16 grid gap-8 sm:grid-cols-3">
