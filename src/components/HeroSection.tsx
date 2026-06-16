@@ -23,7 +23,7 @@ export default function HeroSection() {
 
 <p className="max-w-2xl text-lg leading-relaxed text-sakram-text sm:text-xl">
   <span className="text-sakram-orange font-semibold">
-    Built for an Always Secure India.
+    Built for an Always Secure India
   </span>
 </p>
 
