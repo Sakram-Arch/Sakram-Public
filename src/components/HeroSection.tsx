@@ -22,7 +22,6 @@ export default function HeroSection() {
         </h1>
 
         <p className="max-w-2xl text-lg leading-relaxed text-sakram-text sm:text-xl">
-          National Level Digital Public Infrastructure for Cybersecurity.
           <br />
           <span className="text-sakram-orange font-semibold">
             Built for an Always Secure India.
