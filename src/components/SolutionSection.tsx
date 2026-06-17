@@ -16,7 +16,7 @@ export default function SolutionSection() {
         Sakram is iSPIRT's proposed solution to deal with the growing complexities of the cybersecurity world. 
         It is a comprehensive practice designed to help organizations strengthen their cybersecurity defenses 
         and protect their digital assets, along with those of their partners and customers. It's built on the 
-        principle of continuous execution, facilitating what we call an <strong>"Always Secure"</strong> system
+        principle of continuous execution, facilitating what we call an "Always Secure" system
         </p>
         </div>
       </div>
