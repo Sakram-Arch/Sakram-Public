@@ -18,7 +18,6 @@ export default function SolutionSection() {
         and protect their digital assets, along with those of their partners and customers. It's built on the 
         principle of continuous execution, facilitating what we call an "Always Secure" system
         </p>
-        </div>
       </div>
     </section>
   );

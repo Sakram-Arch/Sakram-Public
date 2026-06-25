@@ -7,7 +7,6 @@ const BASE = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
 
 const links = [
   { label: "About", href: "#about" },
-  { label: "Pillars", href: "#pillars" },
   { label: "Sakram", href: "#solution" },
 ];
 
